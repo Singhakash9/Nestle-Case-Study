@@ -1,7 +1,5 @@
 # Case Study: Nestlé – Diversification and Innovation
 
-![Nestle](https://github.com/user-attachments/assets/52c9e906-316b-4eec-91c2-24172bd164a6)
-
 <img src="https://github.com/user-attachments/assets/52c9e906-316b-4eec-91c2-24172bd164a6" width="700" height="450" />
 
 
