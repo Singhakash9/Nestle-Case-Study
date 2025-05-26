@@ -1,10 +1,10 @@
-# Case Study: Nestlé – Diversification and Innovation
+# Case Study: Nestle – Diversification and Innovation
 
 <img src="https://github.com/user-attachments/assets/52c9e906-316b-4eec-91c2-24172bd164a6" width="700" height="450" />
 
 
 ## Background
-Nestlé, headquartered in Switzerland, is the world’s largest food and beverage company by revenue. With a diverse portfolio ranging from dairy and beverages to prepared meals, Nestlé has remained a staple in households globally.
+Nestle, headquartered in Switzerland, is the world’s largest food and beverage company by revenue. With a diverse portfolio ranging from dairy and beverages to prepared meals, Nestle has remained a staple in households globally.
 
 ## Challenges
 - Slowing growth in traditional food markets.
@@ -12,7 +12,7 @@ Nestlé, headquartered in Switzerland, is the world’s largest food and beverag
 - Rising expectations for environmental responsibility in product packaging and corporate operations.
 
 ## Solutions
-To address these challenges, Nestlé executed a broad strategy of diversification, innovation, and sustainability.
+To address these challenges, Nestle executed a broad strategy of diversification, innovation, and sustainability.
 
 ### Key Strategic Moves
 1. **Health and Wellness Expansion**  
@@ -35,7 +35,7 @@ To address these challenges, Nestlé executed a broad strategy of diversificatio
   Strengthened brand reputation through proactive environmental and social responsibility efforts.
 
 ## Conclusion
-Nestlé’s strategic diversification and innovation approach has enabled it to stay ahead of evolving market demands. By expanding into health, wellness, and sustainable solutions, the company continues to lead the global food industry in both revenue and relevance.
+Nestle’s strategic diversification and innovation approach has enabled it to stay ahead of evolving market demands. By expanding into health, wellness, and sustainable solutions, the company continues to lead the global food industry in both revenue and relevance.
 
 ---
 
